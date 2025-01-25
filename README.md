@@ -20,7 +20,7 @@ cd lonely-recoder
 **Step 2**
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 **Step 3**
