@@ -1,0 +1,5 @@
+pyyaml>=6.0.1
+pathlib>=1.0.1
+python-dateutil>=2.8.2
+quart>=0.19.4
+hypercorn>=0.15.0
